@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://JessPou.github.io/snippets-ik9uah/sitemap.xml
